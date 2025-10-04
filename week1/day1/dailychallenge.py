@@ -1,14 +1,14 @@
-# number = input("Tell me a number, please: ")
-# length = input("How long should the sequence be? ")
+number = input("Tell me a number, please: ")
+length = input("How long should the sequence be? ")
 
-# print("The number is:", number)
-# print("The length is:", length)
+print("The number is:", number)
+print("The length is:", length)
 
-# number = 2
-# length = 8
+number = 2
+length = 8
 
-# multiples = [number * i for i in range(1, length+1)]
-# print(multiples)
+multiples = [number * i for i in range(1, length+1)]
+print(multiples)
 
 
 
