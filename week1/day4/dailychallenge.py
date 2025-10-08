@@ -137,12 +137,10 @@ p.last_page()
 print(p.get_visible_items())
 # ['y', 'z']
 
-# Test go_to_page valid
 p.go_to_page(3)
 print(p.get_visible_items())
 # ['i', 'j', 'k', 'l']
 
-# Test ValueError
 try:
     p.go_to_page(10)
 except ValueError as e:
