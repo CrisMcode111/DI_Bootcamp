@@ -11,3 +11,8 @@ It serves as an **academic record and learning log**, documenting progression ac
 The code is intentionally kept close to its original form to reflect the learning process throughout the bootcamp.
 
 > Note: Selected projects developed during the bootcamp are maintained in separate repositories for clarity.
+
+## Related Projects
+
+- Solar Greenhouse AI – experimental project  
+  https://github.com/USERNAME/solar_greenhouse_ai
