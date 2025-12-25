@@ -14,6 +14,11 @@ The code is intentionally kept close to its original form to reflect the learnin
 
 ## Hackathons
 
+- **Hackathon 1 – Credit Card Fraud Detection**  
+  Team project developed during an AI bootcamp.  
+  Repository hosted on my GitHub:  
+  https://github.com/CrisMcode111/fraude-credit-hackathon
+
 - **Hackathon 2 – [AI-Powered Document Search And Summarization System]**  
   Team project developed during an AI bootcamp.  
   Repository hosted by a teammate:  
